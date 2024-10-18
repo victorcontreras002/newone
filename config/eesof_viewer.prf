@@ -1,0 +1,21 @@
+Begin_Block  Header 
+  
+  Mode  ASCII 
+  File_Name  C:\Users\vugoc\Documents/hpeesof/config/eesof_viewer.prf 
+  Version  3.00 
+  
+End_Block  Header 
+
+Begin_Block  Data 
+  
+  Begin_Preferences 
+  
+  Begin_Preference_Block 
+  Post_Directory C:/Users/vugoc/Downloads/antena_microstrip/MyWorkspace_wrk/simulation/MyLibrary_lib/cell_2/layout/emSetup_MoM 
+  Geo_Directory . 
+  End_Preference_Block 
+  
+  End_Preferences 
+  
+End_Block  Data 
+
